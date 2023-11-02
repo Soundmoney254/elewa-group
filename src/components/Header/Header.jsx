@@ -2,10 +2,10 @@ import React from 'react'
 import data from '../../data/data.json';
 import './Header.css';
 
-
+//Use variables for the header links with type string
 function Header() {
     return (
-        <div>
+        <div className='header-container'>
             <header className='header'>
                 <nav>
                     <div className='navbar'>
