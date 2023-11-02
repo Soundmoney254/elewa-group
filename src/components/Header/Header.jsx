@@ -6,18 +6,18 @@ import './Header.css';
 function Header() {
     return (
         <div>
-            <header>
+            <header className='header'>
                 <nav>
-                    <div>
+                    <div className='navbar'>
                         <div>
-                            <a href="/">
+                            <a className="logo" href="/">
                                 <img
                                     src="https://res.cloudinary.com/dyl3rncv3/image/upload/v1675690297/elewa-group-website/Icons/SVG/_Logo/Logo_White_arvoyx.svg"
                                     alt="Elewa Group Logo"
                                 />
                             </a>
                         </div>
-                        <ul>
+                        <ul className='nav-list'>
                             <li>
                                 <a href="/"> {data.home} </a>
                             </li>

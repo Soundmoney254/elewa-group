@@ -1,0 +1,35 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+.header {
+    width: 90%;
+    margin-inline: auto;
+    margin-top: 1.3125rem;
+}
+
+.navbar {
+    display: flex;
+    align-items: center;
+    background-color: #000000;
+    fill: #f3f1f1;
+    color: white;
+}
+
+.logo {
+    padding: 2rem 43rem 1rem 0;
+}
+
+a {
+    color: inherit;
+    text-decoration: none;
+}
+
+.nav-list {
+    display: flex;
+    justify-content: space-between;
+    width: 50%;
+}
