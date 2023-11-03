@@ -1,10 +1,9 @@
 import './App.css';
-import HeroSection from './Views/HeroSection.tsx';
-
+import SocialInvest from "./Pages/SocialInvest";
 function App() {
   return (
     <div className="App">
-      <HeroSection />
+      <SocialInvest />
     </div>
   );
 }
