@@ -26,11 +26,3 @@
     padding: 2rem 29rem 1rem 0;
 }
 
-a {
-    color: inherit;
-    text-decoration: none;
-}
-
-a:hover {
-    text-decoration: underline;
-}
