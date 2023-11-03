@@ -1,0 +1,8 @@
+.nav-items {
+    display: flex;
+    justify-content: space-between;
+    width: 65%;
+    font-size: 1.12rem;
+    font-family: "DMSans-Regular";
+    text-align: left;
+    color: #e5e5e5;}
