@@ -15,7 +15,7 @@
     flex-direction: column;
     justify-content: center;
     height: 85%;
-    align-items: start;
+    align-items: flex-start;
 }
 
 .scaling {
