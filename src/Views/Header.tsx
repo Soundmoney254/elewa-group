@@ -1,6 +1,6 @@
 import React from 'react';
 import '../Styles/Header.css';
-import AnchorTextView from './AnchorTextView';
+import AnchorTextView from './AnchorText';
 import { useHeaderData } from "../ViewModels/useHeaderData";
 
 function Header() {
