@@ -1,10 +1,10 @@
 import './App.css';
-import Header from './components/Header/Header';
+import HeroSection from './Views/HeroSection.tsx';
 
 function App() {
   return (
     <div className="App">
-      <Header />
+      <HeroSection />
     </div>
   );
 }
