@@ -1,12 +1,46 @@
 {
-    "home": "Home",
-    "aboutUs": "About us",
-    "socialImpact": "Social impact",
-    "invest": "Invest",
-    "ventureLabs": "Venture Labs",
-    "brands": "Brands",
-    "careers": "Careers",
-    "contact": "Contact",
+    "anchortext": [
+      {
+        "id": 1,
+        "text": "Home",
+        "url": "/"
+      },
+      {
+        "id": 2,
+        "text": "About us",
+        "url": "/about"
+      },
+      {
+        "id": 3,
+        "text": "Social impact",
+        "url": "/social-impact"
+      },
+      {
+        "id": 4,
+        "text": "Invest",
+        "url": "/invest"
+      },
+      {
+        "id": 5,
+        "text": "Venture Labs",
+        "url": "/venture-labs"
+      },
+      {
+        "id": 6,
+        "text": "Brands",
+        "url": "/brands"
+      },
+      {
+        "id": 7,
+        "text": "Careers",
+        "url": "/careers"
+      },
+      {
+        "id": 8,
+        "text": "Contact",
+        "url": "/contact"
+      }
+    ],
     "topBannerHeroImage": "top banner hero image",
     "scalingImpact": "Scaling impact. Beyond the norm",
     "humanAndEnvironmentalImpact": "Human and Environmental Impact through Social Enterprise",
@@ -27,6 +61,6 @@
     "brandsLink": "Brands\nElewa\nItalanta\nVenture labs",
     "privacy": "Privacy",
     "termsAndConditions": "Terms and conditions",
-    "cookiePreferences": "Cookie preferences",
-    "logo": "logo"
-}
+    "cookiePreferences": "Cookie preferences"
+  }
+  
