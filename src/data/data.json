@@ -49,10 +49,18 @@
   },
   
   "recordSection": {
-    "peopleTrained": "733+ People trained",
-    "careersLaunched": "733k careers launched",
-    "projectsFinished": "200+ Projects finished",
-    "investors": "56 Investors"
+    "peopleTrained": "733+ ",
+    "careersLaunched": "733k ",
+    "projectsFinished": "200+",
+    "investors": "56",
+    "peopleTrainedText": "People trained",
+    "careersLaunchedText": "Careers launched",
+    "projectsFinishedText": "Projects finished",
+    "investorsText": "Investors",
+    "recordPhoto": "https://res.cloudinary.com/dyl3rncv3/image/upload/v1681306013/lady-impact_rnc9jy.jpg",
+    "recordSectionTitle": "(Social) business for the win",
+    "recordSectionParagraph": "With a young dynamic population that is eager to contribute to the global economy, East Africa has a lot to offer to the world. Now is the time to nurture sustainable, inclusive and scalable business. The rest will take care of itself."
+
   },
   "businessForTheWin": "(Social) business for the win",
   "eastAfricaDescription": "With a young dynamic population that is eager to contribute to the global economy, East Africa has a lot to offer to the world. Now is the time to nurture sustainable, inclusive and scalable business. The rest will take care of itself.",
