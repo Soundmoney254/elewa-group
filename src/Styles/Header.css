@@ -1,6 +1,5 @@
 .header-container {
     padding-top: 3.5rem;
-    position: fixed;
     top: 0;
     width: 100%;
     transition: top 0.3s;
@@ -14,6 +13,7 @@
     font-size: 16px;
     padding-bottom: 1.2rem;
     border-bottom: 0.15rem solid #e5e5e5;
+
 }
 
 .navbar {
@@ -25,4 +25,3 @@
 .logo {
     padding: 2rem 29rem 1rem 0;
 }
-
