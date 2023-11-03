@@ -19,7 +19,16 @@ const RecordSection: React.FC = () => {
                 <p>{recordData.projectsFinishedText}</p>
                 <p>{recordData.investorsText}</p>
             </div>
+            <div className='record-section-two'>
             <img className='record-photo' src={recordData.recordPhoto} alt='record' />
+            <div className='social-business'>
+                <h1>{recordData.recordSectionTitle}</h1>
+                <p>{recordData.recordSectionParagraph}</p>
+            </div>
+            </div>
+         
+       
+
         </div>
     );
 }
