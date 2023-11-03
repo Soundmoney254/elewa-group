@@ -4,4 +4,26 @@
     background-image: url("https://res.cloudinary.com/dyl3rncv3/image/upload/v1679910469/elewa-group-website/hero-Images/pexels-bg-edit_bb4znx.jpg");
     background-size: fit;
     color: white;
+    font-family: "DMSans-Regular";
+    margin-inline: auto;
+}
+
+.hero {
+    padding: 5% 5%;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    height: 85%;
+    align-items: flex-start;
+}
+
+.scaling {
+    font-size: 1.5rem;
+    padding-bottom: 1.2rem;
+}
+
+.impact {
+    font-size: 4rem;
+    width: 60%;
 }
