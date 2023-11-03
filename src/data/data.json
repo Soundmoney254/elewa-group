@@ -47,10 +47,13 @@
     "scalingImpact": "Scaling impact. Beyond the norm",
     "humanAndEnvironmentalImpact": "Human and Environmental Impact through Social Enterprise"
   },
-  "peopleTrained": "733+ People trained",
-  "careersLaunched": "733k careers launched",
-  "projectsFinished": "200+ Projects finished",
-  "investors": "56 Investors",
+  
+  "recordSection": {
+    "peopleTrained": "733+ People trained",
+    "careersLaunched": "733k careers launched",
+    "projectsFinished": "200+ Projects finished",
+    "investors": "56 Investors"
+  },
   "businessForTheWin": "(Social) business for the win",
   "eastAfricaDescription": "With a young dynamic population that is eager to contribute to the global economy, East Africa has a lot to offer to the world. Now is the time to nurture sustainable, inclusive and scalable business. The rest will take care of itself.",
   "cooperativeMindset": "A cooperative mindset\nElewa has one shared objective; To unlock the true potential of individuals, teams, and the community. We believe strongly in the power of sharing ideas and continuously strive to grow each other and ourselves. Internally, but also within the larger communities in which we are active.",
