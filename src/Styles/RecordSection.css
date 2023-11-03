@@ -1,0 +1,30 @@
+.record-section {
+    height: 100vh;
+    color: #fff;
+    fill: #000;
+    background: #000;
+    padding: 6.25rem;
+    font-family: "Jeko-Medium ";
+    border-radius: 1rem;
+}
+
+.record {
+    display: flex;
+    font-size: 4.5rem;
+    justify-content: space-around;
+}
+
+.record-text {
+    display: flex;
+    font-size: 2rem;
+    justify-content: space-around;
+    padding-bottom: 2rem;
+
+}
+
+.record-photo {
+    height: 40rem;
+    width: 35rem;
+    border-radius: 1rem;
+    padding: 2rem 4rem;
+}
