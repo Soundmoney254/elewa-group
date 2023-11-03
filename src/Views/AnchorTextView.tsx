@@ -1,5 +1,5 @@
 import React from 'react';
-import { useAnchorTexts } from '../ViewModels/AnchorTextViewModel';
+import { useAnchorTexts } from '../ViewModels/useAnchorTextData';
 import '../Styles/AnchorTextView.css';
 
 function AnchorTextView() {
