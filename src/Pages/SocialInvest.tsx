@@ -4,7 +4,7 @@ import RecordSection from "../Views/RecordSection";
 
 function SocialInvest() {
     return (
-        <div>
+        <div className="homepage">
             <HeroSection />
             <RecordSection />
         </div>
