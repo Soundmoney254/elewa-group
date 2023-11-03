@@ -42,9 +42,11 @@
       "url": "/contact"
     }
   ],
-  "heroImage": "https://res.cloudinary.com/dyl3rncv3/image/upload/v1679910469/elewa-group-website/hero-Images/pexels-bg-edit_bb4znx.jpg",
-  "scalingImpact": "Scaling impact. Beyond the norm",
-  "humanAndEnvironmentalImpact": "Human and Environmental Impact through Social Enterprise",
+  "heroData": {
+    "heroImage": "https://res.cloudinary.com/dyl3rncv3/image/upload/v1679910469/elewa-group-website/hero-Images/pexels-bg-edit_bb4znx.jpg",
+    "scalingImpact": "Scaling impact. Beyond the norm",
+    "humanAndEnvironmentalImpact": "Human and Environmental Impact through Social Enterprise"
+  },
   "peopleTrained": "733+ People trained",
   "careersLaunched": "733k careers launched",
   "projectsFinished": "200+ Projects finished",
