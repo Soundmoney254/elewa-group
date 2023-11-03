@@ -1,67 +1,66 @@
 {
   "logoUrl": "https://res.cloudinary.com/dyl3rncv3/image/upload/v1675690297/elewa-group-website/Icons/SVG/_Logo/Logo_White_arvoyx.svg",
-    "anchortext": [
-      {
-        "id": 1,
-        "text": "Home",
-        "url": "/"
-      },
-      {
-        "id": 2,
-        "text": "About us",
-        "url": "/about"
-      },
-      {
-        "id": 3,
-        "text": "Social impact",
-        "url": "/social-impact"
-      },
-      {
-        "id": 4,
-        "text": "Invest",
-        "url": "/invest"
-      },
-      {
-        "id": 5,
-        "text": "Venture Labs",
-        "url": "/venture-labs"
-      },
-      {
-        "id": 6,
-        "text": "Brands",
-        "url": "/brands"
-      },
-      {
-        "id": 7,
-        "text": "Careers",
-        "url": "/careers"
-      },
-      {
-        "id": 8,
-        "text": "Contact",
-        "url": "/contact"
-      }
-    ],
-    "topBannerHeroImage": "top banner hero image",
-    "scalingImpact": "Scaling impact. Beyond the norm",
-    "humanAndEnvironmentalImpact": "Human and Environmental Impact through Social Enterprise",
-    "peopleTrained": "733+ People trained",
-    "careersLaunched": "733k careers launched",
-    "projectsFinished": "200+ Projects finished",
-    "investors": "56 Investors",
-    "businessForTheWin": "(Social) business for the win",
-    "eastAfricaDescription": "With a young dynamic population that is eager to contribute to the global economy, East Africa has a lot to offer to the world. Now is the time to nurture sustainable, inclusive and scalable business. The rest will take care of itself.",
-    "cooperativeMindset": "A cooperative mindset\nElewa has one shared objective; To unlock the true potential of individuals, teams, and the community. We believe strongly in the power of sharing ideas and continuously strive to grow each other and ourselves. Internally, but also within the larger communities in which we are active.",
-    "beyondBusiness": "Beyond business\nWe channel a good amount of our resources into giving back.\n\nThrough projects such as our coding school in Kakuma refugee camp, training teachers in pastoral Samburu and our open-source coding initiatives providing entry-level opportunities to hundreds of junior engineers\n\nThese projects don't necessarily have an immediate financial return, but their impact can be tangibly measured in the long-term.",
-    "openKnowledge": "Open knowledge\nWhat we learn, we share. Through community events, open knowledge repositories, regular teaching moments (everyone a teacher) and academic partnerships.\n\nWe build for today, with a lens on tomorrow.",
-    "impactProjects": "Some of our impact projects",
-    "becomePartOfMission": "Become part of our mission and join elewa.",
-    "headquarters": "Headquarters\nThe Promenade, 19 General Mathenge Rd\nNairobi, Kenya",
-    "contactDetails": "Contact\nT +254 78 92 27 755\nE info@elewa.ke",
-    "navigation": "Navigation",
-    "brandsLink": "Brands\nElewa\nItalanta\nVenture labs",
-    "privacy": "Privacy",
-    "termsAndConditions": "Terms and conditions",
-    "cookiePreferences": "Cookie preferences"
-  }
-  
+  "anchortext": [
+    {
+      "id": 1,
+      "text": "Home",
+      "url": "/"
+    },
+    {
+      "id": 2,
+      "text": "About us",
+      "url": "/about"
+    },
+    {
+      "id": 3,
+      "text": "Social impact",
+      "url": "/social-impact"
+    },
+    {
+      "id": 4,
+      "text": "Invest",
+      "url": "/invest"
+    },
+    {
+      "id": 5,
+      "text": "Venture Labs",
+      "url": "/venture-labs"
+    },
+    {
+      "id": 6,
+      "text": "Brands",
+      "url": "/brands"
+    },
+    {
+      "id": 7,
+      "text": "Careers",
+      "url": "/careers"
+    },
+    {
+      "id": 8,
+      "text": "Contact",
+      "url": "/contact"
+    }
+  ],
+  "heroImage": "https://res.cloudinary.com/dyl3rncv3/image/upload/v1679910469/elewa-group-website/hero-Images/pexels-bg-edit_bb4znx.jpg",
+  "scalingImpact": "Scaling impact. Beyond the norm",
+  "humanAndEnvironmentalImpact": "Human and Environmental Impact through Social Enterprise",
+  "peopleTrained": "733+ People trained",
+  "careersLaunched": "733k careers launched",
+  "projectsFinished": "200+ Projects finished",
+  "investors": "56 Investors",
+  "businessForTheWin": "(Social) business for the win",
+  "eastAfricaDescription": "With a young dynamic population that is eager to contribute to the global economy, East Africa has a lot to offer to the world. Now is the time to nurture sustainable, inclusive and scalable business. The rest will take care of itself.",
+  "cooperativeMindset": "A cooperative mindset\nElewa has one shared objective; To unlock the true potential of individuals, teams, and the community. We believe strongly in the power of sharing ideas and continuously strive to grow each other and ourselves. Internally, but also within the larger communities in which we are active.",
+  "beyondBusiness": "Beyond business\nWe channel a good amount of our resources into giving back.\n\nThrough projects such as our coding school in Kakuma refugee camp, training teachers in pastoral Samburu and our open-source coding initiatives providing entry-level opportunities to hundreds of junior engineers\n\nThese projects don't necessarily have an immediate financial return, but their impact can be tangibly measured in the long-term.",
+  "openKnowledge": "Open knowledge\nWhat we learn, we share. Through community events, open knowledge repositories, regular teaching moments (everyone a teacher) and academic partnerships.\n\nWe build for today, with a lens on tomorrow.",
+  "impactProjects": "Some of our impact projects",
+  "becomePartOfMission": "Become part of our mission and join elewa.",
+  "headquarters": "Headquarters\nThe Promenade, 19 General Mathenge Rd\nNairobi, Kenya",
+  "contactDetails": "Contact\nT +254 78 92 27 755\nE info@elewa.ke",
+  "navigation": "Navigation",
+  "brandsLink": "Brands\nElewa\nItalanta\nVenture labs",
+  "privacy": "Privacy",
+  "termsAndConditions": "Terms and conditions",
+  "cookiePreferences": "Cookie preferences"
+}
