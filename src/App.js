@@ -1,9 +1,9 @@
-import './App.css';
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 import SocialInvest from "./Pages/SocialInvest";
 import About from "./Pages/About";
 import Invest from "./Pages/Invest";
 
+// Define routes and their components and render them
 function App() {
   return (
     <Router>
