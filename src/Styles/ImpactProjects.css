@@ -1,0 +1,41 @@
+.project-impact{
+    justify-content: center;
+    align-items: center;
+    width: 80%;
+    height: 100vh;
+    overflow: hidden;
+    position: relative;
+    background-color: #fff;
+    margin-inline: auto;
+    padding: 5rem;
+    font-family: "DMSans-Regular";
+    font-size: 3rem;
+
+}
+
+.carousel-title{
+    font-size: 3rem;
+    font-family: "DMSans-Regular";
+    font-weight: 400;
+    margin-bottom: 2rem;
+    text-align: center;
+}
+
+.carousel-paragraph{
+    text-align: center;
+}
+.carousel {
+    height: 50vh;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+.carousel .caroussel-logo {
+    animation: scroll-1 1s linear infinite;
+    display: flex;
+    width: fit-content;
+    height: auto;
+    align-items: center;
+    justify-content: center;
+}
