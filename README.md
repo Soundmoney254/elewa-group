@@ -1,70 +1,83 @@
-# Getting Started with Create React App
+# Elewa Group
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Elewa group is a website for a company that seeks to nurture young budding developers to fully fledged software engineers who can create solutions for world problems using code.
 
-## Available Scripts
+# Technologies Used
 
-In the project directory, you can run:
+1. ReactJS: Used to develop the front end of the project, providing a smooth user experience.
 
-### `npm start`
+2. TypeScript: TypeScript, a statically typed superset of JavaScript, is used throughout the project to ensure type safety and improve the development process. It helps in catching errors early during development, provides better autocompletion, and enhances the readability and maintainability of the code by making it easier to understand the structure of objects and the types of values being manipulated.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+3. CSS: CSS is used for styling the components in the project. It provides the look and feel of the application, making it visually appealing and user-friendly. Specific layouts, colors, fonts, and animations are defined using CSS.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Getting Started /Setup
 
-### `npm test`
+1. Clone the repo
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+```sh
+git clone https://github.com/Soundmoney254/elewa-group
+```
 
-### `npm run build`
+Navigate to the project directory using:
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+```sh
+cd elewa-group
+```
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+Install the required dependencies:
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+```sh
+npm install
+```
 
-### `npm run eject`
+Start the development server:
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+```sh
+npm start
+```
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+The website is now running on http://localhost:3000.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+You can acess the other pages using the navigation bar to the about and invest page or use the following links
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+- About page : http://localhost:3000/about
 
-## Learn More
+- Invest page: http://localhost:3000/invest
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+You are now ready to explore the Elewa group project.
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+![Screenshot of the application](https://www.webpagescreenshot.info/#v2=HaNQ6pPdg)
 
-### Code Splitting
+## Features
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+This project includes several key features:
 
-### Analyzing the Bundle Size
+1. **Responsive Design**: The application is fully responsive and provides an optimal viewing experience across a wide range of devices, from desktop computers to mobile phones.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+2. **Dynamic Content**: The application dynamically loads and displays content, providing a seamless user experience.
 
-### Making a Progressive Web App
+3. **Navigation**: The application includes a navigation system that allows users to easily navigate through different sections of the website.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+4. **Interactive UI**: The application has an interactive user interface that enhances user engagement.
 
-### Advanced Configuration
+5. **Accessibility**: The application is designed with accessibility in mind, ensuring that it can be used by as many people as possible.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+Please note that these are just sample features and may not accurately represent the features of your project. You should replace them with the actual features of your project.
 
-### Deployment
+## Contributing
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+We welcome contributions to the Moringa Elewa Group Project. If you have any suggestions, bug reports, or feature requests, please open an issue on the GitHub repository or submit a pull request.
 
-### `npm run build` fails to minify
+Before making any significant changes, please discuss them with the project maintainers to ensure they align with the project's goals and direction.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+## License and copyright
+
+- The code in this project is licensed under the terms of the General Public License (GPL-3.0).
+
+- You are granted permission to use, modify, and contribute to the project under the conditions outlined in the GPL-3.0 license.
+
+- It is important to preserve and include the copyright and license notices in all copies and distributions of the project.
+
+## Author
+
+This project was created by Samuel Mbugua.
