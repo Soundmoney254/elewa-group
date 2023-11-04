@@ -7,6 +7,7 @@ import OpenKnowledge from "../Views/OpenKnowledge";
 import ImpactProjects from "../Views/ImpactProjects";
 import Footer from "../Views/Footer";
 
+// This component is used to display the Social Invest page.
 function SocialInvest() {
     return (
         <div className="homepage">
