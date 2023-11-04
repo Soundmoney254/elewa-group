@@ -1,16 +1,16 @@
-import data from '../data/data.json';
+import data from '../data/hero.json';
 import { useEffect, useState } from 'react';
 import { HeroData } from '../Models/Hero';
 import { isValidUrl } from '../Utilities/isValidUrl';
 
-export const useHeroData = () => {
+export const useHeroData = (index: number) => {
     const [heroData, setHeroData] = useState<HeroData>();
 
     useEffect(() => {
-        if (isValidUrl(data.heroData.heroImage)) {
-            setHeroData(data.heroData);
+        if (data.heroData.every(item => isValidUrl(item.heroImage))) {
+            setHeroData(data.heroData[index]);
         }
-    }, []);
+    }, [index]);
 
     return heroData;
 }
