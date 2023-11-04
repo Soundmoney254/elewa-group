@@ -2,6 +2,9 @@ import React from "react";
 import HeroSection from "../Views/HeroSection";
 import RecordSection from "../Views/RecordSection";
 import MindsetSection from "../Views/Mindset";
+import BeyondBusiness from "../Views/BeyondBusiness";
+import OpenKnowledge from "../Views/OpenKnowledge";
+import ImpactProjects from "../Views/ImpactProjects";
 
 function SocialInvest() {
     return (
@@ -9,6 +12,9 @@ function SocialInvest() {
             <HeroSection />
             <RecordSection />
             <MindsetSection />
+            <BeyondBusiness />
+            <OpenKnowledge />
+            <ImpactProjects />
         </div>
     )
 }
