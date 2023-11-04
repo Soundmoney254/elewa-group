@@ -1,6 +1,9 @@
 .mindset-section {
     height: 100vh;
     padding: 6.25rem;
+    background-color: #ececec;
+    border-bottom-left-radius: 3rem;
+    border-bottom-right-radius: 3rem;
 }
 
 #section-photo {
@@ -12,7 +15,7 @@
 }
 
 
-.title-photo-paragraph {
+.mindset-section .title-photo-paragraph {
     display:flex;
     flex-direction: row-reverse;
     justify-content: space-between;
