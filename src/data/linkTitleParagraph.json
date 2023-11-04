@@ -9,6 +9,16 @@
       "recordPhoto": "https://res.cloudinary.com/dyl3rncv3/image/upload/v1681308135/buffelo_i60xeu.jpg",
       "recordSectionTitle": "A cooperative mindset",
       "recordSectionParagraph": "Elewa has one shared objective; To unlock the true potential of individuals, teams, and the community. We believe strongly in the power of sharing ideas and continuously strive to grow each other and ourselves. Internally, but also within the larger communities in which we are active."
+    },
+    {
+      "recordPhoto": "https://res.cloudinary.com/dyl3rncv3/image/upload/c_scale,q_90,w_400/v1675690301/elewa-group-website/Images/IMG_0764_twyo3k.png",
+      "recordSectionTitle": "Beyond business",
+      "recordSectionParagraph": "We channel a good amount of our resources into giving back. Through projects such as our coding school in Kakuma refugee camp, training teachers in pastoral Samburu and our open-source coding initiatives providing entry-level opportunities to hundreds of junior engineers. These projects don't necessarily have an immediate financial return, but their impact can be tangibly measured in the long-term."
+    },
+    {
+      "recordPhoto": "https://res.cloudinary.com/dyl3rncv3/image/upload/v1675690302/elewa-group-website/Images/unnamed_1_m3dvll.png",
+      "recordSectionTitle": "Open knowledge",
+      "recordSectionParagraph": "What we learn, we share. Through community events, open knowledge repositories, regular teaching moments (everyone a teacher) and academic partnerships. We build for today, with a lens on tomorrow."
     }
   ]
 }
