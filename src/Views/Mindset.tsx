@@ -1,11 +1,14 @@
 import LinkTitleParagraphPage from "../Utilities/LinkTitleParagraphPage";
 import React from 'react';
 import '../Styles/MindsetSection.css';
+import useIntersectionObserver from '../Utilities/useIntersectionObserver';
+import "../Styles/Animate.css"
 
 function MindsetSection() {
+  const ref = useIntersectionObserver();
   return (
-    <div className="mindset-section">
-        <LinkTitleParagraphPage index={1} />
+    <div ref={ref} className="mindset-section">
+      <LinkTitleParagraphPage index={1} />
     </div>
   )
 }

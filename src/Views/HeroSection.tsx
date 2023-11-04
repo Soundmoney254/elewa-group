@@ -2,12 +2,15 @@ import React from 'react'
 import '../Styles/HeroSection.css';
 import Header from './Header';
 import { useHeroData } from '../ViewModels/useHeroData';
+import useIntersectionObserver from '../Utilities/useIntersectionObserver';
+import "../Styles/Animate.css"
 
 function HeroSection() {
     const heroData = useHeroData();
-    console.log(heroData);
+    const ref = useIntersectionObserver();
+
     return (
-        <div className='hero-section'>
+        <div ref={ref} className='hero-section'>
             <Header />
             <section className='hero'>
                 <h3 className='scaling'>{heroData?.scalingImpact}</h3>

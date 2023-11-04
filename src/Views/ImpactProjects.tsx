@@ -3,12 +3,16 @@ import { Carousel } from 'react-responsive-carousel';
 import "react-responsive-carousel/lib/styles/carousel.min.css";
 import { useImpactProjectData } from '../ViewModels/useImpactData';
 import '../Styles/ImpactProjects.css';
+import "../Styles/Animate.css"
+import useIntersectionObserver from '../Utilities/useIntersectionObserver';
 
 const ImpactProjects = () => {
   const impactProjectData = useImpactProjectData();
 
+  const ref = useIntersectionObserver();
+
   return (
-    <div className='project-impact'>
+    <div ref={ref} className='project-impact'>
       <h1 className='carousel-title'>{impactProjectData?.title}</h1>
       <div className="carousel">
         <Carousel showThumbs={false} infiniteLoop autoPlay>
