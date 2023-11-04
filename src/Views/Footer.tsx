@@ -2,17 +2,20 @@ import React from 'react';
 import { useFooterData } from '../ViewModels/useFooterData';
 import '../Styles/Footer.css';
 import Logo from '../Utilities/Logo';
+import "../Styles/Animate.css"
+import useIntersectionObserver from '../Utilities/useIntersectionObserver';
 
 const Footer = () => {
     const footerData = useFooterData();
 
+    const ref = useIntersectionObserver();
     // Make sure footerData is defined before rendering
     if (!footerData) {
         return null;
     }
 
     return (
-        <footer className='footer'>
+        <footer ref={ref} className='footer'>
             <div className='footer-text'>
                 <div>
                     <h2>Headquarters</h2>
