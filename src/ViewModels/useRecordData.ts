@@ -1,5 +1,5 @@
 import { useState, useEffect } from 'react';
-import { RecordData } from '../Models/RecordData';
+import { RecordData } from '../Models/Record';
 import data from '../data/data.json';
 
 const useRecordData = (): RecordData => {
