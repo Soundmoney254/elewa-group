@@ -2,8 +2,18 @@
   "heroData": [
     {
       "heroImage": "https://res.cloudinary.com/dyl3rncv3/image/upload/v1679910469/elewa-group-website/hero-Images/pexels-bg-edit_bb4znx.jpg",
-      "scalingImpact": "Scaling impact. Beyond the norm",
-      "humanAndEnvironmentalImpact": "Human and Environmental Impact through Social Enterprise"
+      "heroSubheading": "Scaling impact. Beyond the norm",
+      "heroHeading": "Human and Environmental Impact through Social Enterprise"
+    },
+    {
+      "heroImage": "https://res.cloudinary.com/dyl3rncv3/image/upload/v1679650530/elewa-team_digqu3.jpg",
+      "heroSubheading": "HOW TO RECOGNIZE AN ELEWA MEMBER",
+      "heroHeading": "Dependable, Creative, Supportive, Open Minded and Fun*"
+    },
+    {
+      "heroImage": "https://res.cloudinary.com/dyl3rncv3/image/upload/v1679982347/elewa-group-website/hero-Images/dark-to-light_xrat5g.jpg",
+      "heroSubheading": "Trade, not aid",
+      "heroHeading": "Southern innovations addressing global problems"
     }
   ]
 }
