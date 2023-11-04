@@ -1,24 +1,15 @@
 import React from 'react';
 import '../Styles/Header.css';
 import AnchorTextView from './AnchorText';
-import { useHeaderData } from "../ViewModels/useHeaderData";
+import Logo from '../Utilities/Logo';
 
 function Header() {
-    const logoUrl = useHeaderData();
-
     return (
         <div className='header-container'>
             <header className='header'>
                 <nav>
                     <div className='navbar'>
-                        <div>
-                            <a className="logo" href="/">
-                                <img
-                                    src={logoUrl?.url}
-                                    alt="Elewa Group Logo"
-                                />
-                            </a>
-                        </div>
+                        <Logo />
                         <AnchorTextView />
                     </div>
                 </nav>
@@ -26,5 +17,4 @@ function Header() {
         </div>
     );
 }
-
 export default Header;
