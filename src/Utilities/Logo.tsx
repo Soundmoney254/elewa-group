@@ -1,6 +1,7 @@
 import React from 'react';
 import { useHeaderData } from "../ViewModels/useHeaderData";
 
+// This component is used to display the logo.
 function Logo() {
     const logoUrl = useHeaderData();
     return (

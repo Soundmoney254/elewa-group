@@ -3,11 +3,12 @@ import '../Styles/HeroSection.css';
 import Header from './Header';
 import { useHeroData } from '../ViewModels/useHeroData';
 import useIntersectionObserver from '../Utilities/useIntersectionObserver';
-import "../Styles/Animate.css"
+import "../Styles/Animate.css";
 interface HeroSectionProps {
     index: number;
 }
 
+// This component is used to display the hero section.
 function HeroSection({ index }: HeroSectionProps) {
     const heroData = useHeroData(index);
     const ref = useIntersectionObserver();

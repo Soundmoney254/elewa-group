@@ -1,10 +1,12 @@
 import useLinkTitleParagraph from '../ViewModels/useLinkTitleParagraph';
 import React from 'react';
 
+// This interface is used to define the props passed to this component.
 interface SectionProps {
   index: number;
 }
 
+// This component is used to display a section with a title, paragraph, and photo.
 const LinkTitleParagraphPage: React.FC<SectionProps> = ({ index }) => {
   const linkTitleParagraph = useLinkTitleParagraph(index);
 
