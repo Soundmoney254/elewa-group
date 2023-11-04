@@ -4,6 +4,7 @@ import '../Styles/BeyondBusiness.css';
 import useIntersectionObserver from '../Utilities/useIntersectionObserver';
 import "../Styles/Animate.css"
 
+// This component is used to display the Beyond Business section.
 function BeyondBusiness() {
   const ref = useIntersectionObserver();
   return (

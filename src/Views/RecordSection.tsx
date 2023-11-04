@@ -5,6 +5,7 @@ import LinkTitleParagraphPage from "../Utilities/LinkTitleParagraphPage";
 import useIntersectionObserver from '../Utilities/useIntersectionObserver';
 import "../Styles/Animate.css"
 
+// This component is used to display the Records section.
 const RecordSection: React.FC = () => {
     const recordData = useRecordData();
     const ref = useIntersectionObserver();

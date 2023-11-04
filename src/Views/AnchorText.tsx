@@ -2,9 +2,10 @@ import React from 'react';
 import { useAnchorTexts } from '../ViewModels/useAnchorTextData';
 import '../Styles/AnchorTextView.css';
 
+// This component is used to display the anchor text.
 function AnchorTextView() {
     const anchorTexts = useAnchorTexts();
-    console.log (anchorTexts);
+    console.log(anchorTexts);
 
     return (
         <div className='nav-items'>

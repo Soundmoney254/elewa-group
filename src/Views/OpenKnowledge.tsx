@@ -4,6 +4,7 @@ import '../Styles/OpenKnowledge.css';
 import useIntersectionObserver from '../Utilities/useIntersectionObserver';
 import "../Styles/Animate.css"
 
+// This component is used to display the Open Knowledge section.
 function OpenKnowledge() {
   const ref = useIntersectionObserver();
   return (

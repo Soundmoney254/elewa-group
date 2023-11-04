@@ -4,6 +4,7 @@ import '../Styles/MindsetSection.css';
 import useIntersectionObserver from '../Utilities/useIntersectionObserver';
 import "../Styles/Animate.css"
 
+// This component is used to display the Mindset section.
 function MindsetSection() {
   const ref = useIntersectionObserver();
   return (

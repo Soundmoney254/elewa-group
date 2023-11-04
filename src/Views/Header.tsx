@@ -5,6 +5,7 @@ import Logo from '../Utilities/Logo';
 import useIntersectionObserver from '../Utilities/useIntersectionObserver';
 import "../Styles/Animate.css"
 
+// This component is used to display the header.
 function Header() {
     const ref = useIntersectionObserver();
     return (

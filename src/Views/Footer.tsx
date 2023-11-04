@@ -5,11 +5,12 @@ import Logo from '../Utilities/Logo';
 import "../Styles/Animate.css"
 import useIntersectionObserver from '../Utilities/useIntersectionObserver';
 
+// This component is used to display the footer.
 const Footer = () => {
     const footerData = useFooterData();
 
     const ref = useIntersectionObserver();
-    // Make sure footerData is defined before rendering
+    // Makes sure footerData is defined before rendering
     if (!footerData) {
         return null;
     }

@@ -6,6 +6,7 @@ import '../Styles/ImpactProjects.css';
 import "../Styles/Animate.css"
 import useIntersectionObserver from '../Utilities/useIntersectionObserver';
 
+// This component is used to display the impact projects section.
 const ImpactProjects = () => {
   const impactProjectData = useImpactProjectData();
 
