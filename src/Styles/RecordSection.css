@@ -28,7 +28,7 @@
     padding-bottom: 2rem;
 }
 
-#section-photo {
+ .record-section-container #section-photo {
     height: 65vh;
     width: 60%;
     padding: 2rem 4rem;
