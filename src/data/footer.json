@@ -8,5 +8,10 @@
   },
   "Navigation": ["About us", "Social impact", "Invest", "News", "Contact"],
   "Brands": ["Elewa", "Italanta", "Venture labs"],
-  "Privacy": ["Terms and conditions", "Cookie preferences"]
+  "Privacy": ["Terms and conditions", "Cookie preferences"],
+  "SocialMediaLogos": {
+    "facebook": "https://res.cloudinary.com/dyl3rncv3/image/upload/v1675690294/elewa-group-website/Icons/SVG/_Social/facebook_lhhwk2.svg",
+    "instagram": "https://res.cloudinary.com/dyl3rncv3/image/upload/v1675690295/elewa-group-website/Icons/SVG/_Social/instagram_x8ujcq.svg",
+    "linkedin": "https://res.cloudinary.com/dyl3rncv3/image/upload/v1675690294/elewa-group-website/Icons/SVG/_Social/linkedin_x8smhm.svg"
+  }
 }
