@@ -47,7 +47,6 @@
     "scalingImpact": "Scaling impact. Beyond the norm",
     "humanAndEnvironmentalImpact": "Human and Environmental Impact through Social Enterprise"
   },
-
   "recordSection": {
     "peopleTrained": "733+ ",
     "careersLaunched": "733k ",
@@ -56,14 +55,9 @@
     "peopleTrainedText": "People trained",
     "careersLaunchedText": "Careers launched",
     "projectsFinishedText": "Projects finished",
-    "investorsText": "Investors",
-    "recordPhoto": "https://res.cloudinary.com/dyl3rncv3/image/upload/v1681306013/lady-impact_rnc9jy.jpg",
-    "recordSectionTitle": "(Social) business for the win",
-    "recordSectionParagraph": "With a young dynamic population that is eager to contribute to the global economy, East Africa has a lot to offer to the world. Now is the time to nurture sustainable, inclusive and scalable business. The rest will take care of itself."
+    "investorsText": "Investors"
   },
-  "businessForTheWin": "(Social) business for the win",
-  "eastAfricaDescription": "With a young dynamic population that is eager to contribute to the global economy, East Africa has a lot to offer to the world. Now is the time to nurture sustainable, inclusive and scalable business. The rest will take care of itself.",
-  "cooperativeMindset": "A cooperative mindset\nElewa has one shared objective; To unlock the true potential of individuals, teams, and the community. We believe strongly in the power of sharing ideas and continuously strive to grow each other and ourselves. Internally, but also within the larger communities in which we are active.",
+
   "beyondBusiness": "Beyond business\nWe channel a good amount of our resources into giving back.\n\nThrough projects such as our coding school in Kakuma refugee camp, training teachers in pastoral Samburu and our open-source coding initiatives providing entry-level opportunities to hundreds of junior engineers\n\nThese projects don't necessarily have an immediate financial return, but their impact can be tangibly measured in the long-term.",
   "openKnowledge": "Open knowledge\nWhat we learn, we share. Through community events, open knowledge repositories, regular teaching moments (everyone a teacher) and academic partnerships.\n\nWe build for today, with a lens on tomorrow.",
   "impactProjects": "Some of our impact projects",
