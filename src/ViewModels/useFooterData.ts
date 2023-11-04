@@ -3,6 +3,11 @@ import { FooterData } from '../Models/Footer';
 import data from '../data/footer.json';
 import { isValidUrl } from '../Utilities/isValidUrl';
 
+/**
+ * Custom hook that returns the footer data from the footer.json file.
+ * @returns A footer data object.
+ */
+
 export const useFooterData = () => {
     const [footerViewModel, setFooterViewModel] = useState<FooterData>();
 

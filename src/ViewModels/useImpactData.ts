@@ -3,6 +3,11 @@ import { useEffect, useState } from 'react';
 import { ImpactProject } from '../Models/Impact';
 import { isValidUrl } from '../Utilities/isValidUrl';
 
+/**
+ * Custom hook that returns the impact project data from the ImpactProjects.json file.
+ * @returns An impact project data object.
+ */
+
 export const useImpactProjectData = () => {
     const [impactProjectData, setImpactProjectData] = useState<ImpactProject>();
 

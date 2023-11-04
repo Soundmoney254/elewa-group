@@ -1,6 +1,9 @@
-// useIntersectionObserver.ts
 import { useRef, useEffect } from 'react';
 
+/**
+ * Custom hook that uses the IntersectionObserver API to add a class to an element when it comes into view.
+ * @returns A ref object to be used on the element to be observed.
+ */
 const useIntersectionObserver = () => {
     const ref = useRef(null);
 
