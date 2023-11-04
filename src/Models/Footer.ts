@@ -9,4 +9,9 @@ export interface FooterData {
     Navigation: string[];
     Brands: string[];
     Privacy: string[];
+    SocialMediaLogos: {
+        facebook: string;
+        instagram: string;
+        linkedin: string;
+    };
 }
