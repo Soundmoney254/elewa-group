@@ -46,8 +46,6 @@ You can acess the other pages using the navigation bar to the about and invest p
 
 You are now ready to explore the Elewa group project.
 
-![Screenshot of the application](https://www.webpagescreenshot.info/#v2=HaNQ6pPdg)
-
 ## Features
 
 This project includes several key features:
