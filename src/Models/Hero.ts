@@ -1,5 +1,5 @@
 export interface HeroData {
     heroImage: string;
-    scalingImpact: string;
-    humanAndEnvironmentalImpact: string;
+    heroSubheading: string;
+    heroHeading: string;
 }
