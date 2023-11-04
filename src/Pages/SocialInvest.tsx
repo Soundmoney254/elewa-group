@@ -10,7 +10,7 @@ import Footer from "../Views/Footer";
 function SocialInvest() {
     return (
         <div className="homepage">
-            <HeroSection />
+            <HeroSection index={0} />
             <RecordSection />
             <MindsetSection />
             <BeyondBusiness />
