@@ -5,6 +5,7 @@ import MindsetSection from "../Views/Mindset";
 import BeyondBusiness from "../Views/BeyondBusiness";
 import OpenKnowledge from "../Views/OpenKnowledge";
 import ImpactProjects from "../Views/ImpactProjects";
+import Footer from "../Views/Footer";
 
 function SocialInvest() {
     return (
@@ -15,6 +16,7 @@ function SocialInvest() {
             <BeyondBusiness />
             <OpenKnowledge />
             <ImpactProjects />
+            <Footer />
         </div>
     )
 }
