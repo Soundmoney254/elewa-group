@@ -1,5 +1,5 @@
 import { useEffect, useState } from 'react';
-import { AnchorText } from '../Models/AnchorText';
+import { AnchorText } from '../Models/Anchor';
 import data from '../data/data.json';
 
 export const useAnchorTexts = () => {
